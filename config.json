@@ -1,6 +1,6 @@
 {
-	"ip":"Your IP",
-	"port": "Your Port",
-	"name": "Name Bot",
+	"ip":"sengchiv02.aternos.me:34668",
+	"port": "34668",
+	"name": "testing",
 	"auto-night-skip":"false"
 }
